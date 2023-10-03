@@ -1,3 +1,5 @@
+Sabemos que em um relógio analógico as horas não se portam da forma como considerado na descrição abaixo, porém, o teste foi realizado adotando as informações fornecidas.
+
 Desafio de Lógica e Programação
 Objetivo: O objetivo desse desafio é demonstrar sua habilidade e conhecimento em lógica
 de programação. Assim saberemos como você pensa e
